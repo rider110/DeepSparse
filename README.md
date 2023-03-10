@@ -1,4 +1,4 @@
-# ** Wheat detection challenge **
+# ** DeepSparse Tutorial **
 
 
 
